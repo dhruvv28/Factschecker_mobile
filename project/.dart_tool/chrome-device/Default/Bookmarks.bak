@@ -1,0 +1,219 @@
+{
+   "checksum": "c57c65ab3823fc9b280034b0781697c1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338808548283735",
+            "date_last_used": "0",
+            "guid": "bdcce87d-451f-4bc0-8e0f-c389d34e3b46",
+            "id": "11",
+            "name": "Profile | Home",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pesuacademy.com/Academy/s/studentProfilePESU",
+            "visit_count": 0
+         }, {
+            "date_added": "13338927312002825",
+            "date_last_used": "0",
+            "guid": "dfd8a9c9-dbfe-41cf-90a6-dcad1cebc150",
+            "id": "12",
+            "name": "BetterPES | Select your Course",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://better-pes.vercel.app/content",
+            "visit_count": 0
+         }, {
+            "date_added": "13338964163514788",
+            "date_last_used": "0",
+            "guid": "9c0f1fb3-8865-4121-9ba2-34f360ebaa43",
+            "id": "13",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13339149839702891",
+            "date_last_used": "0",
+            "guid": "0bf1b196-0e4b-465d-b897-26b7b78c95a4",
+            "id": "14",
+            "name": "Udemy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13339149855995069",
+            "date_last_used": "0",
+            "guid": "7454cc8f-f0bb-4a66-8e07-420709ee9a4e",
+            "id": "15",
+            "name": "SDS Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1B8sZ2gVoZc1Yo551HnoDq0m5VRyYQcsT",
+            "visit_count": 0
+         }, {
+            "date_added": "13339149871831310",
+            "date_last_used": "0",
+            "guid": "7886b363-cf18-459c-9264-d49b03bfcc9c",
+            "id": "16",
+            "name": "DSA Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1b5d_c6Cl5JlBI9X4x2SoJMyVegJaUr6f",
+            "visit_count": 0
+         }, {
+            "date_added": "13339150050189543",
+            "date_last_used": "0",
+            "guid": "05825546-f766-4110-92d0-d493524865a5",
+            "id": "17",
+            "name": "AFLL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1Zt5FQ6Hu6czXNnBOs70KxDxh7Bngi_p6",
+            "visit_count": 0
+         }, {
+            "date_added": "13339344023996484",
+            "date_last_used": "0",
+            "guid": "236c0cb0-c33f-4804-bd66-778013fd68b3",
+            "id": "18",
+            "name": "DDCO",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://classroom.google.com/u/2/c/NjIzNjA0MTk2MzY3",
+            "visit_count": 0
+         }, {
+            "date_added": "13339349892086472",
+            "date_last_used": "0",
+            "guid": "5e46ad13-29fb-4f84-ac68-e661e740e411",
+            "id": "19",
+            "name": "Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.instagram.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13339406091011725",
+            "date_last_used": "0",
+            "guid": "ca19c424-5593-419e-99c2-3f31db45274d",
+            "id": "20",
+            "name": "Illimitable Men",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://illimitablemen.com/2014/04/13/monk-mode/",
+            "visit_count": 0
+         }, {
+            "date_added": "13376035963694045",
+            "date_last_used": "0",
+            "guid": "e4259b2b-46d3-4442-8e00-d1168cae4d06",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Internet Captive Portal Login",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://192.168.254.1:8090/httpclient.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13383499506161029",
+            "date_last_used": "0",
+            "guid": "2b88e6c8-1fdb-4d53-8ce7-e7679ae3376e",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp",
+            "visit_count": 0
+         }, {
+            "date_added": "13383499506160618",
+            "date_last_used": "0",
+            "guid": "23dc8a15-403a-428a-b503-a570c7308fa7",
+            "id": "8",
+            "name": "Express VPN",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge",
+            "visit_count": 0
+         }, {
+            "date_added": "13383499506160433",
+            "date_last_used": "0",
+            "guid": "20ef6fba-b305-4fe7-b23b-b11a2185df85",
+            "id": "7",
+            "name": "McAfee Security",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13383499506160042",
+            "date_last_used": "0",
+            "guid": "4464f88a-89f8-4de5-a858-3c0d47a17808",
+            "id": "6",
+            "name": "LastPass password manager",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3",
+            "visit_count": 0
+         } ],
+         "date_added": "13383499505968259",
+         "date_last_used": "0",
+         "date_modified": "13383499506161029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340131437575458",
+            "date_last_used": "0",
+            "guid": "9fa412f1-c286-4beb-b5e7-dbb2ac73f88d",
+            "id": "10",
+            "name": "webtech",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1ERsbK5fOQYjkPU4lnBIXjTWbn8NcxqFc",
+            "visit_count": 0
+         } ],
+         "date_added": "13383499505968261",
+         "date_last_used": "0",
+         "date_modified": "13340131437575458",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383499505968263",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCJ/yAOaUAQAAKg4QABgBIBYoBjAAOABAABIAKhg1aVVheCt1Y3k0dzZqeThyN2ErK3pRPT1IA6AGDBKuAQgVEqkBChxycjEyTmk0N0JkcFpLS2FlcFNPSS9VdWVLcTQ9EiRlNDI1OWIyYi00NmQzLTQ0NDItOGUwMC1kMTE2OGNhZTRkMDYYACACKAIwk5SWsM4yOI+o0smyMkC6iZawzjJKHHJuV2lxNXpROUw1M0w2UEFBSXFpd1IwOC9EWT1aICIe/9hQb2w3dHo3cndkNmI4OHpVUEw0eWlCRDVpcEk9ZT+03mbCPgJgBRKtAQgREqgBChxTV1o4OXhMWHpJV2lDVDNsOVlvTUE3UjRwcnM9EiQwNTgyNTU0Ni1mNzY2LTQxMTAtOTJkMC1kNDkzNTI0ODY1YTUYACACKAIwkZSWsM4yOI3tqJ3FMUCziZawzjJKHFFIY1ZKRUlhV2VhaDhNY0ptQVpqaituc2lLaz1aHyId/U5CU1F2UURueVlVeWRLa1hKUU9wUEM1bnNsMD1l+pHe28I+AmAFEq0BCBMSqAEKHEtQM2RVdGNCZzJkTVowUk1TTlRYYndmTU9XRT0SJDVlNDZhZDEzLTI5ZmItNGY4NC1hYzY4LWU2NjFlNzQwZTQxMRgAIAIoAjCSlJawzjI4+OuoncUxQLSJlrDOMkocS2dkdnhPeUpXTk85bFY0ak80Ym9Hd1pqV2E0PVofIh3/Y3VoeHMwdEtoRWR3YmFBUExjTDYyVXowWnBrPWW20THiwj4CYAUSrQEIDxKoAQoccytpYVpiaTlDdm9IL1BMMWFPT0FEU1ZPTGVrPRIkNzQ1NGNjOGYtZjBiYi00YTY2LThlMDctNDIwNzA5ZWU5YTRlGAAgAigCMJCUlrDOMjiU7KidxTFAs4mWsM4yShxEbHBjT00zR09nTk1wWGxMaG1yMmF3VDZOSmM9Wh8iHfVML0ZoMTBwejJ4QWw5N3lFU0NNUlNGY01LZE09ZfqR3tvCPgJgBRKtAQgSEqgBChwySFhKV2I2cmdJOFNDalhHRHlZVmMyRVV5dkk9EiQyMzZjMGNiMC1jMzNmLTQ4MDQtYmQ2Ni03NzgwMTNmZDY4YjMYACACKAIwj5SWsM4yOPHsqJ3FMUC0iZawzjJKHFl5dmtkZE5kTXI0UkdkM0xYcjJCWlp5aU1yVT1aHyId/mZDVCtybElZd1dnT2tvaFdBcUFvZDZIY0tUZz1lg/gYdsI+AmAFEq0BCBASqAEKHEpPbHp1RWYxM3Uycld5SDhxcW42UzlrRC91az0SJDc4ODZiMzYzLWNmMTgtNDU5Yy05MjY0LWQ0OWIwM2JmY2M5YxgAIAIoAjCNlJawzjI40+yoncUxQLOJlrDOMkocbEYycGdlZWxYVSthazBkQjIyRzNXaHBXR0pBPVofIh36clZFT3pjOTZ2WmVPWisxQU5yQ2laWTMyanZrPWX6kd7bwj4CYAUSrQEIDhKoAQocMEQyeDNVYjBiZ3NDUFlMWE80b1hJWUlRQ01FPRIkMGJmMWIxOTYtMGU0Yi00NjVkLWI4OTctMjZiN2I3OGM5NWE0GAAgAigCMIuUlrDOMjja66idxTFAs4mWsM4yShxMZ3RXRFFpMjg3MGpaQnY3WHdDTXMzdXFET1E9Wh8iHepHZHhCN1VwTUYveDEzM21IdU4yelgvMTFWR2M9ZQSi1gfCPgJgBRKtAQgNEqgBChw1OEV4aXh5N1ZsQTNBQTdoS0NkUFV2T3A5Rmc9EiQ5YzBmMWZiMy04ODY1LTQxMjEtOWJhMi0zNGYzNjBlYmFhNDMYACACKAIwjpSWsM4yOMHrqJ3FMUCyiZawzjJKHFNrUzRMT0ptYjUydzI1ZExMOVMyV1FrZkhRYz1aHyId1U4yaVZKSHhXV1VaNDNxYjFzNzZndnZiVjIxST1l2NZq9MI+AmAFEq0BCAwSqAEKHHZhSDdLWDRwOW1LZmMxQ2ZMMURST1JYY1FmQT0SJGRmZDhhOWM5LWRiZmUtNDFjZi05MGE2LWRjYWQxY2ViYzE1MBgAIAIoAjCKlJawzjI4tuyoncUxQLKJlrDOMkocZXltNWZrMlRTUmUyUy9LQnQ1ZUJzWkhzTjhRPVofIh2qL0Y3MklqbzlNZ1BPemhCbEpKQXFpWjZaTllZPWWIs0HNwj4CYAUSjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYzNmZjczNmMtMWE0Yi01NzQyLWI4ZGEtMTdjMjU3YTk1YjE1GAAgACgAMIKA6KunMTiKguirpzFAioLoq6cxShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEqwBCAoSpwEKHHJQdm4wSS9QOTdXZ2xieWMrRVArMTc1Ukhrdz0SJDlmYTQxMmYxLWMyODYtNGJlYi1iNWU3LWRiYjJhYzczZjg4ZBgAIAAoADCY56idxTE4peuoncUxQKXrqJ3FMUocTTVxbXk5YUplUi9PRVlzdFErMFQ0WjZTTEUwPVoeIhw3VXQvb2pqZ2FXaEdWeUhmempsM0ZzQTdwSXM9ZfqR3tvCPgJgBRKsAQgLEqcBChxQRk9keFYvUUwvdnRoSGNDcmk2aUVlcWtUcms9EiRiZGNjZTg3ZC00NTFmLTRiYzAtOGUwZi1jMzg5ZDM0ZTNiNDYYACACKAIwiZSWsM4yOITrqJ3FMUCyiZawzjJKHGNoaHFvNkI0clg5SFZtbDc1RHBlREMvZFc4cz1aHiIcVDk5ZDcydExPWHhnSUZJWjJYbFVMZit3MWN3PWWsmK0Mwj4CYAUSrgEIFBKpAQocZFY2TVdOZHdtTTlHeDc0WFBLbmFwNGovbThjPRIkY2ExOWM0MjQtNTU5My00MTllLTk5YzItM2YzMWRiNDUyNzRkGAAgAigCMIyUlrDOMjjo6qidxTFAuomWsM4yShxJL2RuamxpNzNVSkhTQ3dvbnppbmJLeHVUSzg9WiAiHv+xTWloRHNCckVHNFFiVDBSTU9QVWkwTVhWUUVrPWUszxc/wj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkODRjZDQzY2YtYjkzOC01YWM3LTg3ZDctNzRiMmRjYTU3MjcwGAAgACgAMIGA6KunMTjygeirpzFA8oHoq6cxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGVmMGUwYjZmLTA3ZWQtNWMwZi1hZTU1LTM3NDYwMWM5MmUwZRgAIAAoADCHgOirpzE4voLoq6cxQL6C6KunMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}

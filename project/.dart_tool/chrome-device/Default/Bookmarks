@@ -1,0 +1,167 @@
+{
+   "checksum": "1fd7f372c710b74b2804c7e380eb3800",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13338808548283735",
+            "date_last_used": "0",
+            "guid": "bdcce87d-451f-4bc0-8e0f-c389d34e3b46",
+            "id": "11",
+            "name": "Profile | Home",
+            "type": "url",
+            "url": "https://www.pesuacademy.com/Academy/s/studentProfilePESU"
+         }, {
+            "date_added": "13338927312002825",
+            "date_last_used": "0",
+            "guid": "dfd8a9c9-dbfe-41cf-90a6-dcad1cebc150",
+            "id": "12",
+            "name": "BetterPES | Select your Course",
+            "type": "url",
+            "url": "https://better-pes.vercel.app/content"
+         }, {
+            "date_added": "13338964163514788",
+            "date_last_used": "13383510968142793",
+            "guid": "9c0f1fb3-8865-4121-9ba2-34f360ebaa43",
+            "id": "13",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13339149839702891",
+            "date_last_used": "0",
+            "guid": "0bf1b196-0e4b-465d-b897-26b7b78c95a4",
+            "id": "14",
+            "name": "Udemy",
+            "type": "url",
+            "url": "https://www.udemy.com/"
+         }, {
+            "date_added": "13339149855995069",
+            "date_last_used": "0",
+            "guid": "7454cc8f-f0bb-4a66-8e07-420709ee9a4e",
+            "id": "15",
+            "name": "SDS Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1B8sZ2gVoZc1Yo551HnoDq0m5VRyYQcsT"
+         }, {
+            "date_added": "13339149871831310",
+            "date_last_used": "0",
+            "guid": "7886b363-cf18-459c-9264-d49b03bfcc9c",
+            "id": "16",
+            "name": "DSA Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1b5d_c6Cl5JlBI9X4x2SoJMyVegJaUr6f"
+         }, {
+            "date_added": "13339150050189543",
+            "date_last_used": "0",
+            "guid": "05825546-f766-4110-92d0-d493524865a5",
+            "id": "17",
+            "name": "AFLL",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1Zt5FQ6Hu6czXNnBOs70KxDxh7Bngi_p6"
+         }, {
+            "date_added": "13339344023996484",
+            "date_last_used": "0",
+            "guid": "236c0cb0-c33f-4804-bd66-778013fd68b3",
+            "id": "18",
+            "name": "DDCO",
+            "type": "url",
+            "url": "https://classroom.google.com/u/2/c/NjIzNjA0MTk2MzY3"
+         }, {
+            "date_added": "13339349892086472",
+            "date_last_used": "0",
+            "guid": "5e46ad13-29fb-4f84-ac68-e661e740e411",
+            "id": "19",
+            "name": "Instagram",
+            "type": "url",
+            "url": "https://www.instagram.com/"
+         }, {
+            "date_added": "13339406091011725",
+            "date_last_used": "0",
+            "guid": "ca19c424-5593-419e-99c2-3f31db45274d",
+            "id": "20",
+            "name": "Illimitable Men",
+            "type": "url",
+            "url": "https://illimitablemen.com/2014/04/13/monk-mode/"
+         }, {
+            "date_added": "13376035963694045",
+            "date_last_used": "0",
+            "guid": "e4259b2b-46d3-4442-8e00-d1168cae4d06",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Internet Captive Portal Login",
+            "type": "url",
+            "url": "https://192.168.254.1:8090/httpclient.html"
+         }, {
+            "date_added": "13383499506161029",
+            "date_last_used": "0",
+            "guid": "2b88e6c8-1fdb-4d53-8ce7-e7679ae3376e",
+            "id": "9",
+            "name": "Amazon.co.uk - Online Shopping",
+            "type": "url",
+            "url": "http://www.amazon.com/gp/ubp/oneButton/config/redirectHome?tagbase=hpbk-ubpl&ref=aagateway-edgebook-hp"
+         }, {
+            "date_added": "13383499506160618",
+            "date_last_used": "0",
+            "guid": "23dc8a15-403a-428a-b503-a570c7308fa7",
+            "id": "8",
+            "name": "Express VPN",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13383499506160433",
+            "date_last_used": "0",
+            "guid": "20ef6fba-b305-4fe7-b23b-b11a2185df85",
+            "id": "7",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13383499506160042",
+            "date_last_used": "0",
+            "guid": "4464f88a-89f8-4de5-a858-3c0d47a17808",
+            "id": "6",
+            "name": "LastPass password manager",
+            "type": "url",
+            "url": "https://js.redirect.hp.com/jumpstation?bd=lastpass&c=222&locale=*&pf=*&tp=edge&TYPE=3"
+         } ],
+         "date_added": "13383499505968259",
+         "date_last_used": "0",
+         "date_modified": "13383499506161029",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340131437575458",
+            "date_last_used": "0",
+            "guid": "9fa412f1-c286-4beb-b5e7-dbb2ac73f88d",
+            "id": "10",
+            "name": "webtech",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1ERsbK5fOQYjkPU4lnBIXjTWbn8NcxqFc"
+         } ],
+         "date_added": "13383499505968261",
+         "date_last_used": "0",
+         "date_modified": "13340131437575458",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383499505968263",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
